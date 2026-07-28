@@ -89,4 +89,3 @@ Target:
 
 The final model predicts whether a customer is likely to subscribe to a term deposit, helping banks improve marketing efficiency and make data-driven business decisions.
 
-இந்த README உங்கள் Bank Marketing Dataset-க்கு நேரடியாக பொருந்தும். GitHub-ல் paste செய்தால் ஒரு professional project overview போல இருக்கும்.
